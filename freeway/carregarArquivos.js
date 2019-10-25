@@ -29,7 +29,6 @@ function preload(){
   somPontos = loadSound('sons/pontos.wav');
   somTrilha = loadSound('sons/trilha.mp3');
   somColidiu = loadSound('sons/colidiu.mp3');
-  somVitoria = loadSound('sons/Vaca_Louca.mp3');
   
 }
 
