@@ -35,7 +35,6 @@ function telaInicial(){
 }
 
 function vacaVencedora(){
-  vitoria.play();
   background("green");
   textStyle(BOLD);
   textAlign(CENTER);
